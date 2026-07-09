@@ -1,0 +1,12 @@
+*.class
+.mvn
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/build.yml
+
+### VS Code ###
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
